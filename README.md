@@ -1,19 +1,22 @@
 # Clean Code Kata - VideoStore
 
 Como dueños de una VideoClub poseemos una sistema para la gestion de la rentas 
-de las peliculas. El mismo me provee de los que peliculas rento casa usuario, el costo de las mismas
-y los puntos de "Alquier frecuente."
+de las peliculas.
+El mismo nos provee una declaracion de que peliculas rento un usuario y los puntos frecuentes del mismo
 
 
 ## Objetivo
+###Iteracion 1
 Dejar preparado el codigo para soportar nuevos tipos de peliculas.
+###Iteracion 2
+Dado que estamos por lanzar nuestro sitio web, queremos poder obtener el statement en modo HTML
 
 ## Tips and Tricks
 * Maximizar el uso de short-cuts del IDE
 * Baby steps
 * Maximizar colaboracion y comunicacion
 * El codigo desarrollado debe hacerse como si fuera el productivo.
-* Divertirse(?)
+
 
 
 ### About Katas
