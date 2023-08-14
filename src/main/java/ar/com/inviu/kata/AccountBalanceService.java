@@ -1,4 +1,4 @@
-package kata;
+package ar.com.inviu.kata;
 public class AccountBalanceService {
 
     public static void executeCashIn(Object amount, Object account){

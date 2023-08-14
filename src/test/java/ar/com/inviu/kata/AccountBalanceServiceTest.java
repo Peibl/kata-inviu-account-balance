@@ -1,7 +1,7 @@
-package kata;
+package ar.com.inviu.kata;
 
 import org.junit.Test;
-import org.junit.jupiter.api.Assertions;
+
 public class AccountBalanceServiceTest {
     //Crear las clases para una cuenta de banco que soporte:
     //- Depósitos y extracciones en pesos (cash-in / cash-out)
