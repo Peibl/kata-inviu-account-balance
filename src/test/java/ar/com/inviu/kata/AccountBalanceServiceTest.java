@@ -3,10 +3,7 @@ package ar.com.inviu.kata;
 import org.junit.Test;
 
 public class AccountBalanceServiceTest {
-    //Crear las clases para una cuenta de banco que soporte:
-    //- Depósitos y extracciones en pesos (cash-in / cash-out)
-    //- Transferencias entre cuentas.
-    //- Resumen de cuenta: saldo total en pesos y listado de operaciones.
+
 
     @Test
     public void shouldExecuteCashIn(){
